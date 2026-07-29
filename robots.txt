@@ -1,1 +1,8 @@
-google2de6023f89c6a899.html
+User-agent: *
+Allow: /
+
+# Sitemap for Google Search Console
+Sitemap: https://omotalk-x.github.io/momotalk-x/sitemap.xml
+
+# Google Site Verification
+google-site-verification: google2de6023f89c6a899.html
