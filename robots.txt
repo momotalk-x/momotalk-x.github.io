@@ -1,8 +1,1 @@
-User-agent: *
-Allow: /
-
-# Sitemap for Google Search Console
-Sitemap: https://omotalk-x.github.io/momotalk-x/sitemap.xml
-
-# Allow all robots to crawl the entire site
-Crawl-delay: 1
+google2de6023f89c6a899.html
